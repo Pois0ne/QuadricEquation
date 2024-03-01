@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Квадратное Уравнение</string>
+    <string name="empty_fields">Заполнены не все поля</string>
+    <string name="button_solve">Решить!</string>
+    <string name="no_roots">Уравнение не имеет корней!</string>
+</resources>

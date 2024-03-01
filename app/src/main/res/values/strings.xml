@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quadric Equation</string>
+    <string name="empty_fields">Some fields are empty</string>
+    <string name="button_solve">Solve!</string>
+    <string name="no_roots">Threre is no roots for this equation!</string>
+</resources>
